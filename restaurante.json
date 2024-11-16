@@ -1,0 +1,1254 @@
+ [
+    {
+      "cod_restaurant": "AB01R",
+      "denumire_restaurant": "PUB 13 Restaurant Medieval",
+      "cod_judet": "AB",
+      "adresa": "PUB 13 Restaurant Medieval, Alba Iulia",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "AB03R",
+      "denumire_restaurant": "La Poarta Albă",
+      "cod_judet": "AB",
+      "adresa": "Strada Mihai Viteazul 6, Alba Iulia",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "AB04R",
+      "denumire_restaurant": "Casa Zmeilor",
+      "cod_judet": "AB",
+      "adresa": "Strada Avram Iancu, Alba Iulia",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "12:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "AR01R",
+      "denumire_restaurant": "Casa Jelen",
+      "cod_judet": "AR",
+      "adresa": "Strada Lucian Blaga 10, Arad",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "AR02R",
+      "denumire_restaurant": "Hanul Moara cu Noroc",
+      "cod_judet": "AR",
+      "adresa": "DN79, Ineu, Arad",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "AR03R",
+      "denumire_restaurant": "La Mesele Vechi",
+      "cod_judet": "AR",
+      "adresa": "Bulevardul Revoluției 34, Arad",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "AG01R",
+      "denumire_restaurant": "Casa Argeșeană",
+      "cod_judet": "AG",
+      "adresa": "Strada Victoriei 120, Pitești",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "08:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "AG02R",
+      "denumire_restaurant": "Hanul Romanesc",
+      "cod_judet": "AG",
+      "adresa": "Bulevardul Republicii 55, Pitești",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "AG03R",
+      "denumire_restaurant": "Curtea Domnească",
+      "cod_judet": "AG",
+      "adresa": "Calea București 34, Curtea de Argeș",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "12:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "BC01R",
+      "denumire_restaurant": "Hanul Balcan",
+      "cod_judet": "BC",
+      "adresa": "Strada Mioriței 24, Bacău",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "09:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "BC02R",
+      "denumire_restaurant": "Casa Moldoveană",
+      "cod_judet": "BC",
+      "adresa": "Bulevardul Unirii 45, Bacău",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "BC03R",
+      "denumire_restaurant": "La Bunica",
+      "cod_judet": "BC",
+      "adresa": "Strada Erou Gheorghe Rusu 3, Bacău",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "08:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "BH01R",
+      "denumire_restaurant": "Hanul Pescarilor",
+      "cod_judet": "BH",
+      "adresa": "Calea Clujului 196, Oradea",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "BH02R",
+      "denumire_restaurant": "Restaurantul Transilvania",
+      "cod_judet": "BH",
+      "adresa": "Piața 1 Decembrie 7, Oradea",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "09:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "BH03R",
+      "denumire_restaurant": "Casa Pădurarului",
+      "cod_judet": "BH",
+      "adresa": "Strada Gheorghe Doja 49, Oradea",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "12:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "BN01R",
+      "denumire_restaurant": "Crama Veche",
+      "cod_judet": "BN",
+      "adresa": "Strada Liviu Rebreanu 16, Bistrița",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "BN02R",
+      "denumire_restaurant": "Casa Doamnelor",
+      "cod_judet": "BN",
+      "adresa": "Strada Mihai Eminescu 19, Bistrița",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "BN03R",
+      "denumire_restaurant": "Taverna Dogarilor",
+      "cod_judet": "BN",
+      "adresa": "Piața Unirii 22, Bistrița",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "BT01R",
+      "denumire_restaurant": "Casa Lux",
+      "cod_judet": "BT",
+      "adresa": "Strada Primăverii 15, Botoșani",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "08:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "BT02R",
+      "denumire_restaurant": "La Strada",
+      "cod_judet": "BT",
+      "adresa": "Bulevardul Mihai Eminescu 20, Botoșani",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "BT03R",
+      "denumire_restaurant": "Hanul Botoșănean",
+      "cod_judet": "BT",
+      "adresa": "Strada Ștefan cel Mare 35, Botoșani",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "BV01R",
+      "denumire_restaurant": "Sergiana",
+      "cod_judet": "BV",
+      "adresa": "Strada Mureșenilor 28, Brașov",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "BV02R",
+      "denumire_restaurant": "Ceasu' Rău",
+      "cod_judet": "BV",
+      "adresa": "Bulevardul 15 Noiembrie 17, Brașov",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "BV03R",
+      "denumire_restaurant": "Sub Tâmpa",
+      "cod_judet": "BV",
+      "adresa": "Aleea Tiberiu Brediceanu 1, Brașov",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "BR01R",
+      "denumire_restaurant": "Restaurant Carol",
+      "cod_judet": "BR",
+      "adresa": "Strada Împăratul Traian 43, Brăila",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "BR02R",
+      "denumire_restaurant": "Casa Domnească",
+      "cod_judet": "BR",
+      "adresa": "Strada Mihai Eminescu 10, Brăila",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "BR03R",
+      "denumire_restaurant": "Hanul cu Flori",
+      "cod_judet": "BR",
+      "adresa": "Șoseaua Focșani 21, Brăila",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "B01R",
+      "denumire_restaurant": "Hanu' lui Manuc",
+      "cod_judet": "B",
+      "adresa": "Strada Franceză 62-64, București",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "09:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "B02R",
+      "denumire_restaurant": "La Mama",
+      "cod_judet": "B",
+      "adresa": "Bulevardul Nicolae Titulescu 1, București",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "B03R",
+      "denumire_restaurant": "Restaurantul Pescăruș",
+      "cod_judet": "B",
+      "adresa": "Strada Măgurele 19, București",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "12:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "BZ01R",
+      "denumire_restaurant": "Hanul Moților",
+      "cod_judet": "BZ",
+      "adresa": "Strada 1 Decembrie 1918 15, Buzău",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "BZ02R",
+      "denumire_restaurant": "La Căpitan",
+      "cod_judet": "BZ",
+      "adresa": "Strada Tudor Vladimirescu 50, Buzău",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 23:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "BZ03R",
+      "denumire_restaurant": "Pensiunea La Răscruce",
+      "cod_judet": "BZ",
+      "adresa": "DN10, Buzău",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "12:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "CS01R",
+      "denumire_restaurant": "Restaurant Casa cu Flori",
+      "cod_judet": "CS",
+      "adresa": "Strada Principală 42, Reșița",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "CS02R",
+      "denumire_restaurant": "Hanul Piraților",
+      "cod_judet": "CS",
+      "adresa": "Bulevardul Republicii 15, Caransebeș",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "CS03R",
+      "denumire_restaurant": "Pensiunea Rustic",
+      "cod_judet": "CS",
+      "adresa": "Strada Muntele Mic 21, Baile Herculane",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "CL01R",
+      "denumire_restaurant": "Restaurantul La Munte",
+      "cod_judet": "CL",
+      "adresa": "Bulevardul Republicii 8, Călărași",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "CL02R",
+      "denumire_restaurant": "Pensiunea Pădurea Verde",
+      "cod_judet": "CL",
+      "adresa": "Strada Dunării 15, Călărași",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "CL03R",
+      "denumire_restaurant": "Hanul Cu Dor",
+      "cod_judet": "CL",
+      "adresa": "Strada 1 Decembrie 1918 12, Călărași",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "CJ01R",
+      "denumire_restaurant": "Bistro Sorriso",
+      "cod_judet": "CJ",
+      "adresa": "Strada Mărășești 2, Cluj-Napoca",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 23:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "CJ02R",
+      "denumire_restaurant": "Casa Ardeleană",
+      "cod_judet": "CJ",
+      "adresa": "Bulevardul 21 Decembrie 1989 3, Cluj-Napoca",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "CJ03R",
+      "denumire_restaurant": "Hanul cu Ursi",
+      "cod_judet": "CJ",
+      "adresa": "Strada Pădurii 5, Cluj-Napoca",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "CT01R",
+      "denumire_restaurant": "Restaurantul Taverna Sarbului",
+      "cod_judet": "CT",
+      "adresa": "Bulevardul Mamaia 99, Constanța",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "CT02R",
+      "denumire_restaurant": "La Scoica",
+      "cod_judet": "CT",
+      "adresa": "Șoseaua Constanței 24, Constanța",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "CT03R",
+      "denumire_restaurant": "Pizzeria Mama Mia",
+      "cod_judet": "CT",
+      "adresa": "Strada Traian 12, Constanța",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "CV01R",
+      "denumire_restaurant": "Restaurantul Károly",
+      "cod_judet": "CV",
+      "adresa": "Strada Principală 23, Sfântu Gheorghe",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "CV02R",
+      "denumire_restaurant": "Pensiunea Fenyves",
+      "cod_judet": "CV",
+      "adresa": "Strada Mihai Viteazu 45, Covasna",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "CV03R",
+      "denumire_restaurant": "Hanul Ceaiului",
+      "cod_judet": "CV",
+      "adresa": "Bulevardul 1 Decembrie 1918 10, Sfântu Gheorghe",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "DB01R",
+      "denumire_restaurant": "Restaurantul Casa Veche",
+      "cod_judet": "DB",
+      "adresa": "Strada Morii 15, Târgoviște",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "DB02R",
+      "denumire_restaurant": "Hanul cu Rădăcini",
+      "cod_judet": "DB",
+      "adresa": "Bulevardul I.C. Brătianu 25, Moreni",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "DB03R",
+      "denumire_restaurant": "Pensiunea La Pădurile",
+      "cod_judet": "DB",
+      "adresa": "Strada Mureș 7, Fieni",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "DJ01R",
+      "denumire_restaurant": "Restaurantul Rapsodia",
+      "cod_judet": "DJ",
+      "adresa": "Bulevardul Decebal 20, Craiova",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "DJ02R",
+      "denumire_restaurant": "Hanul lui Manole",
+      "cod_judet": "DJ",
+      "adresa": "Strada Toma Ionescu 5, Craiova",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "DJ03R",
+      "denumire_restaurant": "Pensiunea Casa Dacică",
+      "cod_judet": "DJ",
+      "adresa": "Strada I.C. Brătianu 34, Craiova",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 21:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "GL01R",
+      "denumire_restaurant": "Restaurantul La Foc",
+      "cod_judet": "GL",
+      "adresa": "Bulevardul Marea Unire 100, Galați",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "GL02R",
+      "denumire_restaurant": "Pizzeria Dacia",
+      "cod_judet": "GL",
+      "adresa": "Strada Al. I. Cuza 45, Galați",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "GL03R",
+      "denumire_restaurant": "Hanul din Deal",
+      "cod_judet": "GL",
+      "adresa": "Strada Siderurgiștilor 10, Galați",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "GR01R",
+      "denumire_restaurant": "Restaurantul La Răscruce",
+      "cod_judet": "GR",
+      "adresa": "Strada Dunării 15, Giurgiu",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "GR02R",
+      "denumire_restaurant": "Hanul Timpului",
+      "cod_judet": "GR",
+      "adresa": "Bulevardul Nicolae Titulescu 8, Giurgiu",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "GR03R",
+      "denumire_restaurant": "Pensiunea Dunărea",
+      "cod_judet": "GR",
+      "adresa": "Strada 1 Decembrie 1918 20, Giurgiu",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "GJ01R",
+      "denumire_restaurant": "Restaurantul Oltenia",
+      "cod_judet": "GJ",
+      "adresa": "Strada 1 Mai 5, Târgu Jiu",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "GJ02R",
+      "denumire_restaurant": "Pensiunea La Conac",
+      "cod_judet": "GJ",
+      "adresa": "Strada Cărbunesti 10, Târgu Jiu",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "GJ03R",
+      "denumire_restaurant": "Hanul Moților",
+      "cod_judet": "GJ",
+      "adresa": "Strada Crizantemelor 12, Târgu Jiu",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "HR01R",
+      "denumire_restaurant": "Restaurantul La Răscruce",
+      "cod_judet": "HR",
+      "adresa": "Strada Principala 45, Miercurea Ciuc",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "HR02R",
+      "denumire_restaurant": "Pensiunea Trei Brazi",
+      "cod_judet": "HR",
+      "adresa": "Bulevardul 1 Decembrie 1918 10, Băile Tușnad",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "HR03R",
+      "denumire_restaurant": "Hanul Moșneagului",
+      "cod_judet": "HR",
+      "adresa": "Strada Dâmbul Morii 7, Odorheiu Secuiesc",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "HD01R",
+      "denumire_restaurant": "Restaurantul Cetății",
+      "cod_judet": "HD",
+      "adresa": "Strada Cetății 10, Deva",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "HD02R",
+      "denumire_restaurant": "Pensiunea Valea Dacilor",
+      "cod_judet": "HD",
+      "adresa": "Bulevardul 1 Decembrie 1918 15, Hațeg",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "HD03R",
+      "denumire_restaurant": "Hanul Baciului",
+      "cod_judet": "HD",
+      "adresa": "Strada Moților 8, Petroșani",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "IL01R",
+      "denumire_restaurant": "Restaurantul La Gura Ialomiței",
+      "cod_judet": "IL",
+      "adresa": "Strada Principala 20, Gura Ialomiței",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "IL02R",
+      "denumire_restaurant": "Pensiunea Casa cu Flori",
+      "cod_judet": "IL",
+      "adresa": "Strada Tineretului 10, Slobozia",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "IL03R",
+      "denumire_restaurant": "Hanul Pescăresc",
+      "cod_judet": "IL",
+      "adresa": "Strada Dunării 25, Amara",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "IS01R",
+      "denumire_restaurant": "Restaurantul La Castel",
+      "cod_judet": "IS",
+      "adresa": "Strada Palat 2, Iași",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "IS02R",
+      "denumire_restaurant": "Hanul lui Manuc",
+      "cod_judet": "IS",
+      "adresa": "Strada Cuza Vodă 20, Iași",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "IS03R",
+      "denumire_restaurant": "Restaurantul La Băi",
+      "cod_judet": "IS",
+      "adresa": "Bulevardul Carol I 15, Iași",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 22:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "IF01R",
+      "denumire_restaurant": "Restaurantul La Făcut",
+      "cod_judet": "IF",
+      "adresa": "Strada Florilor 8, Bragadiru",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "IF02R",
+      "denumire_restaurant": "Pensiunea Dacica",
+      "cod_judet": "IF",
+      "adresa": "Strada Principală 25, Snagov",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "IF03R",
+      "denumire_restaurant": "Hanul Țăranului",
+      "cod_judet": "IF",
+      "adresa": "Strada Căminului 5, Otopeni",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "MM01R",
+      "denumire_restaurant": "Restaurantul Casa Maramureșeană",
+      "cod_judet": "MM",
+      "adresa": "Strada Mihai Eminescu 10, Baia Mare",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "MM02R",
+      "denumire_restaurant": "Pensiunea Casa cu Ponei",
+      "cod_judet": "MM",
+      "adresa": "Strada Principala 30, Moisei",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "MM03R",
+      "denumire_restaurant": "Hanul cu Tei",
+      "cod_judet": "MM",
+      "adresa": "Bulevardul Unirii 15, Sighetu Marmației",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "MH01R",
+      "denumire_restaurant": "Taverna Sarbului",
+      "cod_judet": "MH",
+      "adresa": "Strada Tineretului 15, Drobeta-Turnu Severin",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "MH02R",
+      "denumire_restaurant": "Hanul lui Fănică",
+      "cod_judet": "MH",
+      "adresa": "Bulevardul Carol I 20, Orșova",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "MH03R",
+      "denumire_restaurant": "Pensiunea Răsăritul",
+      "cod_judet": "MH",
+      "adresa": "Strada Dunării 25, Drobeta-Turnu Severin",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "MS01R",
+      "denumire_restaurant": "Restaurantul Casa de Cultură",
+      "cod_judet": "MS",
+      "adresa": "Bulevardul 1 Decembrie 1918 2, Târgu Mureș",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "MS02R",
+      "denumire_restaurant": "Hanul Pădurii",
+      "cod_judet": "MS",
+      "adresa": "Strada Tineretului 10, Sighișoara",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "MS03R",
+      "denumire_restaurant": "Restaurantul La Sărbătoare",
+      "cod_judet": "MS",
+      "adresa": "Strada Mureșului 15, Târgu Mureș",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "NT01R",
+      "denumire_restaurant": "Restaurantul Casa Dacilor",
+      "cod_judet": "NT",
+      "adresa": "Strada Mihai Eminescu 12, Piatra Neamț",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "NT02R",
+      "denumire_restaurant": "Hanul Moșneagului",
+      "cod_judet": "NT",
+      "adresa": "Strada Bistriței 20, Târgu Neamț",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "NT03R",
+      "denumire_restaurant": "Pensiunea Piatra Verde",
+      "cod_judet": "NT",
+      "adresa": "Strada Gării 10, Ceahlău",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "OT01R",
+      "denumire_restaurant": "Restaurantul Miorița",
+      "cod_judet": "OT",
+      "adresa": "Strada Căpitan Nicolae Pătrașcu 5, Slatina",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "OT02R",
+      "denumire_restaurant": "Hanul de la Cernica",
+      "cod_judet": "OT",
+      "adresa": "Bulevardul Nicolae Titulescu 12, Caracal",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "OT03R",
+      "denumire_restaurant": "Pensiunea La Măruță",
+      "cod_judet": "OT",
+      "adresa": "Strada Mărului 10, Balș",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "PH01R",
+      "denumire_restaurant": "Restaurantul La Răzvan",
+      "cod_judet": "PH",
+      "adresa": "Strada Gării 30, Sinaia",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "PH02R",
+      "denumire_restaurant": "Hanul Munteanului",
+      "cod_judet": "PH",
+      "adresa": "Bulevardul Republicii 25, Câmpina",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "PH03R",
+      "denumire_restaurant": "Pensiunea Iarba Verde",
+      "cod_judet": "PH",
+      "adresa": "Strada Poiana 15, Bușteni",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "SM01R",
+      "denumire_restaurant": "Restaurantul Sătmărean",
+      "cod_judet": "SM",
+      "adresa": "Bulevardul Octavian Goga 15, Satu Mare",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "SM02R",
+      "denumire_restaurant": "Hanul Dacilor",
+      "cod_judet": "SM",
+      "adresa": "Strada 1 Mai 20, Carei",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "SM03R",
+      "denumire_restaurant": "Pensiunea La Fântână",
+      "cod_judet": "SM",
+      "adresa": "Strada Fântânilor 5, Satu Mare",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "SJ01R",
+      "denumire_restaurant": "Restaurantul Poiana",
+      "cod_judet": "SJ",
+      "adresa": "Strada Unirii 10, Zalău",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "SJ02R",
+      "denumire_restaurant": "Hanul Oașului",
+      "cod_judet": "SJ",
+      "adresa": "Bulevardul Mihai Viteazu 15, Șimleu Silvaniei",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "SJ03R",
+      "denumire_restaurant": "Pensiunea La Timpuri Vechi",
+      "cod_judet": "SJ",
+      "adresa": "Strada Băilor 8, Zalău",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "SB01R",
+      "denumire_restaurant": "Restaurantul Casa cu Zorele",
+      "cod_judet": "SB",
+      "adresa": "Strada Avram Iancu 20, Sibiu",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "SB03R",
+      "denumire_restaurant": "Pensiunea Birtăș",
+      "cod_judet": "SB",
+      "adresa": "Strada Săcel 10, Sibiel",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "SV01R",
+      "denumire_restaurant": "Restaurantul Casa Tineretului",
+      "cod_judet": "SV",
+      "adresa": "Strada Tineretului 15, Suceava",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "SV02R",
+      "denumire_restaurant": "Hanul Rădăuți",
+      "cod_judet": "SV",
+      "adresa": "Bulevardul Unirii 25, Rădăuți",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "SV03R",
+      "denumire_restaurant": "Pensiunea Taverna Căprioara",
+      "cod_judet": "SV",
+      "adresa": "Strada Căprioarei 12, Gura Humorului",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "TR01R",
+      "denumire_restaurant": "Casa Drumetului",
+      "cod_judet": "TR",
+      "adresa": "Strada Mihai Viteazu 12, Alexandria",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "TR02R",
+      "denumire_restaurant": "Casa Constantin",
+      "cod_judet": "TR",
+      "adresa": "Bulevardul Dunării 5, Roșiorii de Vede",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "TR03R",
+      "denumire_restaurant": "Pensiunea La Pădure",
+      "cod_judet": "TR",
+      "adresa": "Strada Căpitan Dănescu 8, Zimnicea",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "TM01R",
+      "denumire_restaurant": "Casa Bunicii",
+      "cod_judet": "TM",
+      "adresa": "Strada Mărășești 15, Timișoara",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "TM02R",
+      "denumire_restaurant": "Restaurant 23",
+      "cod_judet": "TM",
+      "adresa": "Bulevardul Take Ionescu 40, Timișoara",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "TM03R",
+      "denumire_restaurant": "Pensiunea La Răscruce",
+      "cod_judet": "TM",
+      "adresa": "Strada Zăvoi 5, Lugoj",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "TL01R",
+      "denumire_restaurant": "Restaurantul Pescăresc",
+      "cod_judet": "TL",
+      "adresa": "Strada Principala 30, Tulcea",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "TL02R",
+      "denumire_restaurant": "Hanul Dacilor",
+      "cod_judet": "TL",
+      "adresa": "Bulevardul Cetății 12, Tulcea",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "TL03R",
+      "denumire_restaurant": "Pensiunea Delta",
+      "cod_judet": "TL",
+      "adresa": "Strada Dunării 5, Murighiol",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "VS01R",
+      "denumire_restaurant": "Restaurantul La Cămin",
+      "cod_judet": "VS",
+      "adresa": "Strada Tudor Vladimirescu 5, Vaslui",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "VS02R",
+      "denumire_restaurant": "Hanul Voievozilor",
+      "cod_judet": "VS",
+      "adresa": "Bulevardul Republicii 22, Bârlad",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "descriere_restaurant": "Hanul Voievozilor se remarcă prin atmosfera sa tradițională și preparatele din bucătăria românească, servind tocănițe, ciorbe și deserturi delicioase.",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "VS03R",
+      "denumire_restaurant": "Pensiunea Bătrâna",
+      "cod_judet": "VS",
+      "adresa": "Strada Gării 18, Negrești",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "VL01R",
+      "denumire_restaurant": "Hanul Haiducilor",
+      "cod_judet": "VL",
+      "adresa": "Strada Mihai Eminescu 12, Râmnicu Vâlcea",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "VL02R",
+      "denumire_restaurant": "Hanul cu Tei",
+      "cod_judet": "VL",
+      "adresa": "Bulevardul Nicolae Balcescu 15, Călimănești",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "VL03R",
+      "denumire_restaurant": "Pensiunea Casa Vânătorului",
+      "cod_judet": "VL",
+      "adresa": "Strada Valea Oltului 8, Voineasa",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "medie"
+    },
+    {
+      "cod_restaurant": "VN01R",
+      "denumire_restaurant": "Restaurantul Crama Domnească",
+      "cod_judet": "VN",
+      "adresa": "Strada Unirii 14, Focșani",
+      "status_restaurant2023": "inchis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "10:00 - 22:00",
+      "accesibilitate": "usoara"
+    },
+    {
+      "cod_restaurant": "VN02R",
+      "denumire_restaurant": "Hanul Vrancea",
+      "cod_judet": "VN",
+      "adresa": "Bulevardul București 22, Focșani",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "deschis",
+      "program_restaurant": "09:00 - 21:00",
+      "accesibilitate": "dificila"
+    },
+    {
+      "cod_restaurant": "VN03R",
+      "denumire_restaurant": "Pensiunea Casa Verde",
+      "cod_judet": "VN",
+      "adresa": "Strada Pădurii 5, Panciu",
+      "status_restaurant2023": "deschis",
+      "status_restaurant2024": "inchis",
+      "program_restaurant": "11:00 - 23:00",
+      "accesibilitate": "dificila"
+    }
+  ]
+
